@@ -1,0 +1,70 @@
+{
+    "name": "Primal",
+    "description": "Primal\u2019s technology is an artificial intelligence that synthesizes semantic data in real-time. Primal\u2019s AI produces semantic representations as interest graphs, powering automated and personalized computing experiences.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2163-primal.jpg",
+    "tags": [
+        "content",
+        "have api",
+        "semantic",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/primal\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Primal",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2163-primal.jpg",
+            "humanURL": "https:\/\/about.primal.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/primal-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.primal.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.primal.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.primal.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/primalfusion"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/about.primal.com\/developers"
+        },
+        {
+            "type": "Email",
+            "url": "info@primal.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@primal.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/primal"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/about.primal.com"
+        }
+    ]
+}
